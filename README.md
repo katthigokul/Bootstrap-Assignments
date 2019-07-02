@@ -1,4 +1,4 @@
-project Title
+Project Title
 KGS
 
 Prerequisites
@@ -16,4 +16,4 @@ product lines include several media (books, DVDs, music CDs, videotapes, and sof
 
 GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
 
- https://katthigokul.github.io/bootstrap-assignment/
+ https://katthigokul.github.io/Bootstrap-Assignments/.
